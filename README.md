@@ -4,7 +4,7 @@
 
 Paste your subscription link, press Connect, and Halo keeps you on the fastest server that actually works.
 
-**[Download the latest version](../../releases/latest)** · Windows 10 (1809) or newer, 64-bit · English and Persian
+**[Download for Windows](#download)** · Windows 10 (1809) or newer, 64-bit · English and Persian
 
 ---
 
@@ -47,12 +47,11 @@ Paste your subscription link, press Connect, and Halo keeps you on the fastest s
 
 ## Download
 
-Get the newest version from **[Releases](../../releases/latest)**.
+<!-- halo-download -->
+### [Download the latest Halo for Windows](../../releases/latest)
 
-| File | For |
-|---|---|
-| `Halo-Setup-<version>.exe` | **Most people.** Installs Halo and updates itself from inside the app. |
-| `Halo-Portable-<version>.zip` | No install: unzip and run `Halo.exe`. Settings stay in its own folder. |
+`Halo-Setup-<version>.exe` · installs Halo and updates itself from inside the app. Windows 10 (1809) or newer, 64-bit.
+<!-- /halo-download -->
 
 ## Check the file
 
